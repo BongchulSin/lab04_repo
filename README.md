@@ -6,7 +6,7 @@ Hello from Bongchul!
 
 
 
-Hello from David! How are you?
+Hello from David!
 
 
 Hello from Pritpal.
